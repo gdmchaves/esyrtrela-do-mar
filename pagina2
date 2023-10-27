@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <!--
+      This is the page head - it contains info the browser uses
+      Like the title, which appears on the browser tab but not inside the page
+      Further down you'll see the content that displays in the page
+    -->
+    <title>Estrela do mar</title>
+
+    <!-- The website stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- The website JavaScript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>Anatomia da estrela do mar</h1>
+    <p>
+      Estrelas do mar são invertebrados pertencentes ao grupo dos equinodermos e
+      à classe <i>Asteroidea</i>. Eles apresentam simetria radial, com braços
+      que saem do disco central em múltiplos de 5<sup>1</sup>.
+    </p>
+    <p style="font-size: 12px">
+      <sup>1</sup> A maioria das estrelas do mar tem só 5 braços mesmo, mas
+      algumas espécies podem ter mais, como a <i>Labidiaster annulatus</i> que
+      pode ter mais de 50. Também existem espécies que não tem braços em
+      multiplos de 5, como a <i>Coscinasterias calamaria</i>, que pode ter de 7
+      a 14 braços.
+    </p>
+    <h3>Circulação</h3>
+    <p>
+      Os equinodermos não possuem propriamente um sistema circulatório, tendo em
+      seu lugar o sistema vascular de água. O sistema vascular de água é
+      responsável não apenas pela circulação, mas pela troca gasosa e locomoção
+      do animal. A água entra pelo madreporito, passando pelo canal de stone
+      para o canal radial e depois para os canais centrais, que estendem-se
+      pelos braços.
+      <img
+        src="https://i.pinimg.com/1200x/db/af/2c/dbaf2cdcffe44a8693856ffc5a577663.jpg"
+      />
+    </p>
+    <h3>Digestão</h3>
+    <p>
+      As estrelas do mar tem bocas pequenas localizadas no meio do disco
+      central, do lado ventral. Por não conseguirem enfiar muita comida dentro
+      da boca, eles fazem digestão extracorporal, evertendo o estômago para fora
+      da boca e envelopando com ele seu alimento.
+    </p>
+  </body>
+</html>
