@@ -1,1 +1,16 @@
-C
+body {
+ background-image: url("https://cdn.glitch.global/58863a58-7e3d-4749-8d2b-ad01d413e982/wo'a.png?v=1698942219233");
+}
+
+h1 {
+  background-color: #4E0DF2;
+}
+
+h3 {
+  color: #056420;
+}
+
+img {
+  border-radius: 20%;
+  border: 5px solid #4E0DF2
+}
