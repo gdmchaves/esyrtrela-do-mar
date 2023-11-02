@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <!--
+      This is the page head - it contains info the browser uses
+      Like the title, which appears on the browser tab but not inside the page
+      Further down you'll see the content that displays in the page
+    -->
+    <title>Estrela do mar</title>
+
+    <!-- The website stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- The website JavaScript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>Anatomia da estrela do mar</h1>
+    <p>
+      Estrelas do mar são invertebrados pertencentes ao grupo dos equinodermos e
+      à classe <i>Asteroidea</i>. Eles apresentam simetria radial, com braços
+      que saem do disco central em múltiplos de 5<sup>1</sup>.
+    </p>
+    <p style="font-size: 12px">
+      <sup>1</sup> A maioria das estrelas do mar tem só 5 braços mesmo, mas
+      algumas espécies podem ter mais, como a <i>Labidiaster annulatus</i> que
+      pode ter mais de 50. Também existem espécies que não tem braços em
+      multiplos de 5, como a <i>Coscinasterias calamaria</i>, que pode ter de 7
+      a 14 braços.
+    </p>
+    <h3>Circulação e trocas gasosas</h3>
+    <p>
+      Os equinodermos não possuem propriamente um sistema circulatório, tendo em
+      seu lugar o sistema ambulacrário. Esse sistema não bombeia sangue, em vez
+      disso ele suga água do mar para dentro do organismo para que ocorra a
+      circulação de nutrientes. A água entra pelo madreporito, passando pelo
+      canal petrário para o canal radial e depois para os canais centrais, que
+      estendem-se pelos braços. Conectados aos canais centrais podem ser
+      encontradas as âmpolas dos pés ambulacrários, que usam contrações
+      musculares e mudanças na pressão hidráulica para movimentar o animal. Além
+      disso, suas finas paredes permitem difusão de gases para dentro do
+      organismo e de excretas para fora do organismo. Assim, o sistema
+      ambulacraio é responsável não apenas pela circulação, mas também pela
+      troca gasosa, excreção e locomoção do animal.
+    </p>
+    <img
+      src="https://1053a95da1.cbaul-cdnwnd.com/e85e76bf8cf5cd98f9411ee6659f0c84/200000286-59e2c5adf5/Equino4.jpg"
+      height="300"
+    />
+    <p style="color: gray">
+      Fonte: https://zoologia-ii-ufes-turma-ii.webnode.page/news/echinodermata/
+    </p>
+    <h3>Digestão</h3>
+    <p>
+      As estrelas do mar tem bocas pequenas localizadas no meio do disco
+      central, do lado ventral. Por não conseguirem enfiar muita comida dentro
+      da boca, eles fazem digestão extracorporal, extraindo o estômago cardíaco
+      por fora da boca e envelopando com ele seu alimento. Glândulas digestórias
+      localizadas ao longo de cada um de seus braços secretam enzimas que
+      digerem a comida, que depois passa para o estômago pylórico, onde é
+      finalizada a digestão. O ânus da estrela do mar é localizado no meio do
+      disco central, no lado dorsal do organismo.
+    </p>
+    <img
+      src="https://www.sobiologia.com.br/figuras/Reinos3/estreladomar3.jpg"
+      height="300px"
+    />
+    <h3>Sistema nervoso</h3>
+    <p>
+      O sistema nervoso das estrelas do mar é muito simples. Eles não possuem
+      cérebro ou sistema nervoso central, tendo em vez disso uma malha de
+      neurônios formada pelo nervo anelar e nervos radiais que extendem-se pelos
+      braços.
+    </p>
+    <img
+      src="https://qph.cf2.quoracdn.net/main-qimg-7f17754f276955241497ed5717eeb120"
+      height="300px"
+    />
+    <h3>Reprodução</h3>
+    <p>
+      A maioria das espécies apresentam indivíduos machos e fêmeas, mesmo que
+      estes geralmente não sejam distinguíveis, porém também existem espécies
+      hermafroditas. Existem, ainda, espécies capazes de mudar de sexo ao longo
+      da vida, passando a fase juvenil como machos e maturando em fêmeas com o
+      tempo. As gônadas da estrela do mar estão localizadas nos braços, abaixo
+      das glândulas digestórias, e geralmente ocorre fertilização é externa.
+      Elas também são capazes de realizar reprodução assexuada por meio de
+      fissão ou autotomia de braços. Nesse caso, o disco central parte-se em
+      dois e cada metade regenera as estruturas perdidas, originando, assim dois
+      indivíduos a partir de um.
+    </p>
+    <img
+      src="https://pt-static.z-dn.net/files/d54/bd65030bfea9f4b001b0483b5295d2e2.jpg"
+      height="300px"
+    />
+  </body>
+</html>
