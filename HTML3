@@ -6,25 +6,36 @@
     <link rel="icon" href="https://glitch.com/favicon.ico" />
     <title>estrela do mar</title>
     <link rel="stylesheet" href="/style.css" />
-   
   </head>
   <body>
-  <link rel="stylesheet" href="partedeshigu.css">
+    <nav>
+      <a href="especies.html">Espécies</a>
+      <a href="index.html">Anatomia</a>
+    </nav>
+    <link rel="stylesheet" href="partedeshigu.css" />
     <h1>Fontes</h1>
-    <p>
-      https://diariodonordeste.verdesmares.com.br/metro/fauna-marinha-e-ameacada-1.309516 
-      http://www.portal.zoo.bio.br/media451  
-      http://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_linckia_guildingi.pdf
-      https://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_echinaster_othilia_echinophorus.pdf
-      https://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_oreaster_reticulatus.pdf
-      https://bioone.org/journals/tropical-conservation-science/volume-3/issue-2/194008291000300
-      204/Usos-de-invertebrados-na-medicina-popular-no-Brasil-e-suas/10.1177/194008291000300204.full
-      https://silo.tips/download/caracterizaao-do-microhabitat-da-estrela-do-mar-linckiaguildingii-gray-1840que-o
-      https://www.scielo.br/j/bn/a/YDDTmPHj9xppxT79hjvWBcv/?format=pdf/lang=pt
-      https://www.researchgate.net/profile/Bruno-Meurer-2/publication/343821631_Densidade_e_habito_alimentar_de_Oreaster_reticulatus_Linnaeus_1758Echinodermata_em_areas_rasas_de_recifes_rochosos_do_Estado_do_Rio_de_Janeiro/links/5f42bd9692851cd302222c98/Densidade-e-habito-alimentar-de-Oreaster-reticulatus-Linnaeus-1758Echinodermata-em-areas-rasas-de-recifes-rochosos-do-Estado-do-Rio-de-Janeiro.pdf>. 
-      https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol1.pdf
-      
-    </p>
+    <a href="https://diariodonordeste.verdesmares.com.br/metro/fauna-marinha-e-ameacada-1.309516">https://diariodonordeste.verdesmares.com.br/metro/fauna-marinha-e-ameacada-1.309516</a>
+    <br>
+    <a href="http://www.portal.zoo.bio.br/media451">http://www.portal.zoo.bio.br/media451</a>
+    <br>
+    <a href="http://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_linckia_guildingi.pdf">http://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_linckia_guildingi.pdf </a>
+    <br> 
+    <a href="https://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_echinaster_othilia_echinophorus.pdf">https://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_echinaster_othilia_echinophorus.pdf</a>
+    <br>  
+    <a href="https://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_oreaster_reticulatus.pdf">https://www.icmbio.gov.br/cepsul/images/stories/especies_ameacadas/invertebrados/sp_oreaster_reticulatus.pdf</a>
+    <br>
+    <a href="https://bioone.org/journals/tropical-conservation-science/volume-3/issue-2/194008291000300">https://bioone.org/journals/tropical-conservation-science/volume-3/issue-2/194008291000300</a>
+    <br>
+    <a href="204/Usos-de-invertebrados-na-medicina-popular-no-Brasil-e-suas/10.1177/194008291000300204.full">204/Usos-de-invertebrados-na-medicina-popular-no-Brasil-e-suas/10.1177/194008291000300204.full</a>
+    <br>
+    <a href="https://silo.tips/download/caracterizaao-do-microhabitat-da-estrela-do-mar-linckiaguildingii-gray-1840que-o">https://silo.tips/download/caracterizaao-do-microhabitat-da-estrela-do-mar-linckiaguildingii-gray-1840que-o</a>
+    <br>
+    <a href="https://www.scielo.br/j/bn/a/YDDTmPHj9xppxT79hjvWBcv/?format=pdf/lang=pt">https://www.scielo.br/j/bn/a/YDDTmPHj9xppxT79hjvWBcv/?format=pdf/lang=pt</a>
+    <br>
+    <a href="https://www.researchgate.net/profile/Bruno-Meurer-2/publication/343821631_Densidade_e_habito_alimentar_de_Oreaster_reticulatus_Linnaeus_1758Echinodermata_em_areas_rasas_de_recifes_rochosos_do_Estado_do_Rio_de_Janeiro/links/5f42bd9692851cd302222c98/Densidade-e-habito-alimentar-de-Oreaster-reticulatus-Linnaeus-1758Echinodermata-em-areas-rasas-de-recifes-rochosos-do-Estado-do-Rio-de-Janeiro.pdf">https://www.researchgate.net/profile/Bruno-Meurer-2/publication/343821631_Densidade_e_habito_alimentar_de_Oreaster_reticulatus_Linnaeus_1758Echinodermata_em_areas_rasas_de_recifes_rochosos_do_Estado_do_Rio_de_Janeiro/links/5f42bd9692851cd302222c98/Densidade-e-habito-alimentar-de-Oreaster-reticulatus-Linnaeus-1758Echinodermata-em-areas-rasas-de-recifes-rochosos-do-Estado-do-Rio-de-Janeiro.pdf</a>
+    <br>
+    <a href="https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol1.pdf">https://www.icmbio.gov.br/portal/images/stories/comunicacao/publicacoes/publicacoes-diversas/livro_vermelho_2018_vol1.pdf</a>
     
   </body>
 </html>
+
