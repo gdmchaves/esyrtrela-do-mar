@@ -12,5 +12,15 @@ h3 {
 
 img {
   border-radius: 20%;
-  border: 5px solid #4E0DF2
+  border: 5px solid #4E0DF2;
+  height: 300px;
 }
+
+a {
+  color: #000040;
+  border-style: inset;
+  border-color: #84d5fa;
+  background-color: #84d5fa;
+}
+
+a:hover{border-color: #4E0DF2; background-color: #4E0DF2; color:#84d5fa;}
